@@ -39,10 +39,10 @@ pip install tweepy python-dotenv pandas
 
 ### 3. Create a .env file to store your credentials
 ```bash
-BEARER_TOKEN=your_bearer_token <br>
-API_KEY=your_api_key<br>
-API_SECRET=your_api_secret<br>
-ACCESS_TOKEN=your_access_token<br>
+BEARER_TOKEN=your_bearer_token 
+API_KEY=your_api_key
+API_SECRET=your_api_secret
+ACCESS_TOKEN=your_access_token
 ACCESS_SECRET=your_access_secret
 ```
 
