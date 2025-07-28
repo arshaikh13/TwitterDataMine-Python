@@ -38,10 +38,10 @@ pip install tweepy python-dotenv pandas
 ```
 
 ### 3. Create a .env file to store your credentials
-BEARER_TOKEN=your_bearer_token
-API_KEY=your_api_key
-API_SECRET=your_api_secret
-ACCESS_TOKEN=your_access_token
+BEARER_TOKEN=your_bearer_token <br>
+API_KEY=your_api_key<br>
+API_SECRET=your_api_secret<br>
+ACCESS_TOKEN=your_access_token<br>
 ACCESS_SECRET=your_access_secret
 
 ## Usage
@@ -52,10 +52,10 @@ python your_script_name.py
 ```
 
 ### Sample Output
-=== Tweet Statistics ===
-Total Tweets: 50
-Average Likes: 24.6
-Average Retweets: 7.1
+=== Tweet Statistics ===<br>
+Total Tweets: 50<br>
+Average Likes: 24.6<br>
+Average Retweets: 7.1<br>
 
-Most Popular Tweet:
+Most Popular Tweet:<br>
 "The moon landing anniversary is today 🚀🌕 #NASA"
